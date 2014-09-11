@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Arsenal</key>
+	<array>
+		<string>arsenal.png</string>
+		<string>http://www.arsenal.com/first-team/players</string>
+		<string>Emirates Stadium</string>
+		<string>arsenalstadium.png</string>
+		<string>Highbury House, 75 Drayton Park, London N5 1BU, United Kingdom</string>
+		<string>51.554992,-0.108501</string>
+	</array>
+	<key>Aston Villa</key>
+	<array>
+		<string>astonvilla.png</string>
+		<string>http://www.avfc.co.uk/page/FirstTeam</string>
+		<string>Villa Park</string>
+		<string>astonvillastadium.png</string>
+		<string>Villa Park, Trinity Rd, Birmingham, West Midlands B6 6HE, United Kingdom</string>
+		<string>52.508165,-1.892474</string>
+	</array>
+	<key>Cardiff City</key>
+	<array>
+		<string>cardiffcity.png</string>
+		<string>http://www.cardiffcityfc.co.uk/team/</string>
+		<string>Cardiff City Stadium</string>
+		<string>cadiffcitystadium.png</string>
+		<string>Leckwith Rd, Cardiff, South Glamorgan CF11 8AZ, United Kingdom</string>
+		<string>51.47986,-3.20105</string>
+	</array>
+	<key>Crystal Palace</key>
+	<array>
+		<string>palace</string>
+		<string>http://www.cpfc.co.uk/team/</string>
+		<string>Selhurst Park</string>
+		<string>crystalselhurstpark.png</string>
+		<string>Whitehorse Ln, London SE25 6PU, United Kingdom</string>
+		<string>51.39982,-0.08576</string>
+	</array>
+	<key>Chelsea</key>
+	<array>
+		<string>chelsea.png</string>
+		<string>http://www.chelseafc.com/first-team</string>
+		<string>Stamford Bridge</string>
+		<string>chelseastamfordbridge.png</string>
+		<string>Stamford Bridge, Fulham Rd, London SW6 1HS, United Kingdom</string>
+		<string>51.48058,-0.18824</string>
+	</array>
+	<key>Everton</key>
+	<array>
+		<string>everton.png</string>
+		<string>http://www.evertonfc.com/match/everton-squad.html</string>
+		<string>Goodison Park</string>
+		<string>evertongoodisonpark.png</string>
+		<string>Goodison Rd, Liverpool, Merseyside L4 4EL, United Kingdom</string>
+		<string>53.44035,-2.96763</string>
+	</array>
+	<key>Fulham</key>
+	<array>
+		<string>fulham.png</string>
+		<string>http://www.fulhamfc.com/the-teams/first-team</string>
+		<string>Craven Cottage</string>
+		<string>fullhamcravencottage.png</string>
+		<string>Craven Cottage, Stevenage Rd, London SW6 6HH, United Kingdom</string>
+		<string>51.47453,-0.22060</string>
+	</array>
+	<key>Hull City</key>
+	<array>
+		<string>hullcity.png</string>
+		<string>http://www.hullcitytigers.com/team/</string>
+		<string>KC Stadium</string>
+		<string>hullcityKCstadium.png</string>
+		<string>The Circle, Anlaby Rd, Hull HU3 6HU, United Kingdom</string>
+		<string>53.74573,-0.36802</string>
+	</array>
+	<key>Liverpool</key>
+	<array>
+		<string>liverpool.png</string>
+		<string>http://www.liverpoolfc.com/team/first-team</string>
+		<string>Anfield</string>
+		<string>Anfield Rd, Liverpool, Merseyside L4 0TH, United Kingdom</string>
+		<string>53.43187,-2.96094</string>
+	</array>
+	<key>Manchester City</key>
+	<array>
+		<string>mancity.png</string>
+		<string>http://www.mcfc.com/players</string>
+		<string>Ethiad Stadium</string>
+		<string>mancityEthiad.png</string>
+		<string>Etihad Stadium, Etihad Campus, Manchester, Greater Manchester M11 3FF, United Kingdom</string>
+		<string>53.48459,-2.20269</string>
+	</array>
+	<key>Manchester United</key>
+	<array>
+		<string>manu.png</string>
+		<string>http://www.manutd.com/en/Players-And-Staff/First-Team.aspx</string>
+		<string>Old Trafford</string>
+		<string>manuoldtrafford.png</string>
+		<string>Sir Matt Busby Way, Manchester M16 0RA, United Kingdom</string>
+		<string>53.46441	-2.28970</string>
+	</array>
+	<key>Newcastle United</key>
+	<array>
+		<string>newu.png</string>
+		<string>http://www.nufc.co.uk/page/Teams/PlayerProfiles</string>
+		<string>St. James&apos; Park</string>
+		<string>newcastleStJamesPark.png</string>
+		<string>Barrack Rd, Newcastle upon Tyne NE1 4ST, United Kingdom</string>
+		<string>54.97526,-1.62433</string>
+	</array>
+	<key>Norwich City</key>
+	<array>
+		<string>norwichcity.png</string>
+		<string>http://www.canaries.co.uk/team/player-profile/</string>
+		<string>Carrow Road</string>
+		<string>norwichCarrowRoad.png</string>
+		<string>Carrow Rd, Norwich, Norfolk NR1 1JE, United Kingdom</string>
+		<string>52.62273,1.31174</string>
+	</array>
+	<key>Southampton</key>
+	<array>
+		<string>southampton.png</string>
+		<string>http://www.saintsfc.co.uk/team/player-profile/</string>
+		<string>St. Mary&apos;s Stadium</string>
+		<string>southStMarys.png</string>
+		<string>Britannia Rd, Southampton, Hampshire SO14 5FP, United Kingdom</string>
+		<string>50.90768,-1.39006</string>
+	</array>
+	<key>Stoke City</key>
+	<array>
+		<string>stokecity.png</string>
+		<string>http://www.stokecityfc.com/team/</string>
+		<string>Britannia Stadium</string>
+		<string>stokeBritannia-Stadium.png</string>
+		<string>Stanley Matthews Way, Stoke-on-Trent ST4 4EG, United Kingdom</string>
+		<string>52.98828,-2.17542</string>
+	</array>
+	<key>Sunderland</key>
+	<array>
+		<string>sunderland.png</string>
+		<string>http://www.safc.com/players-and-staff/first-team</string>
+		<string>Stadium Of Light</string>
+		<string>sunderlandStadiumOfLight.png</string>
+		<string>50 Fawcett St, Sunderland SR5 1SU, United Kingdom</string>
+		<string>54.91456,-1.38837</string>
+	</array>
+	<key>Swansea City</key>
+	<array>
+		<string>swansea.png</string>
+		<string>http://www.swanseacity.net/team/player-profile/</string>
+		<string>Liberty Stadium</string>
+		<string>swansealibertystadium.png</string>
+		<string>Landore, Swansea SA1 2FA, United Kingdom</string>
+		<string>51.64216,-3.93512</string>
+	</array>
+	<key>Tottenham Hotspur</key>
+	<array>
+		<string>hotspur.png</string>
+		<string>http://www.tottenhamhotspur.com/first-team-profiles/</string>
+		<string>White Hart Lane</string>
+		<string>hotspurwhitehartlane.png</string>
+		<string>Bill Nicholson Way, 748 High Rd, Tottenham, London N17 0AP, United Kingdom</string>
+		<string>51.60315,-0.06760</string>
+	</array>
+	<key>West Bromwich Albion</key>
+	<array>
+		<string>westbrom.png</string>
+		<string>http://www.wba.co.uk/team/player-profile/</string>
+		<string>The Hawthorns</string>
+		<string>westbromTheHawThorns.png</string>
+		<string>Birmingham Road, West Bromwich, West Midlands B71 4LF, United Kingdom</string>
+		<string>52.51052,-1.96852</string>
+	</array>
+	<key>West Ham United</key>
+	<array>
+		<string>westham.png</string>
+		<string>http://www.whufc.com/page/FirstTeamProfiles/</string>
+		<string>The Boleyn Ground</string>
+		<string>westhamTheBoleynGround.png</string>
+		<string>Boleyn Ground, Green St, Upton Park, London E13 9AZ, United Kingdom</string>
+		<string>51.53170,0.03832</string>
+	</array>
+</dict>
+</plist>
